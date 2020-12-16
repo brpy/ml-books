@@ -14,3 +14,5 @@ A list of freely available Machine Learning, Data Science and Statistics books.
 |Think Stats|Allen Downey|[[github]](https://github.com/AllenDowney/ThinkStats2) [[pdf]](https://greenteapress.com/thinkstats/thinkstats.pdf)|:heavy_check_mark:|
 |Math4ml|Garrett Thomas|[[github]](https://github.com/gwthomas/math4ml) [[pdf]](https://gwthomas.github.io/docs/math4ml.pdf)|:heavy_check_mark:|
 |Think bayes|Allen Downey|[[github]](https://github.com/AllenDowney/ThinkBayes) [[html]](http://www.greenteapress.com/thinkbayes/html/index.html) [[pdf]](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)|:heavy_check_mark:|
+|Think python 2|AllenDowney|[[pdf]](http://greenteapress.com/thinkpython2/thinkpython2.pdf)|:heavy_check_mark:|
+|Intermediate python|Muhammad Yasoob Ullah Khalid|[[pdf]](https://buildmedia.readthedocs.org/media/pdf/intermediatepythongithubio/latest/intermediatepythongithubio.pdf)|:heavy_check_mark:|
