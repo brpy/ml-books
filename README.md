@@ -16,3 +16,7 @@ A list of freely available Machine Learning, Data Science and Statistics books.
 |Think bayes|Allen Downey|[[github]](https://github.com/AllenDowney/ThinkBayes) [[html]](http://www.greenteapress.com/thinkbayes/html/index.html) [[pdf]](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)|:heavy_check_mark:|
 |Think python 2|Allen Downey|[[pdf]](http://greenteapress.com/thinkpython2/thinkpython2.pdf)|:heavy_check_mark:|
 |Intermediate python|Muhammad Yasoob Ullah Khalid|[[pdf]](https://buildmedia.readthedocs.org/media/pdf/intermediatepythongithubio/latest/intermediatepythongithubio.pdf)|:heavy_check_mark:|
+|Pattern Recognition and Machine Learning|Christopher Bishop|[[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)|:heavy_check_mark:|  
+|Computer Age Statistical Inference|Bradley Efron, Trevor Hastie|[[pdf]](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)|:heavy_check_mark:|
+|An Introduction to Statistical Learning|Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani|[[pdf]](https://statlearning.com/ISLR%20Seventh%20Printing.pdf)|:heavy_check_mark:|
+|The Elements ofStatistical Learning|Trevor Hastie, Robert Tibshirani, Jerome Friedman|[[pdf]](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)|:heavy_check_mark:| 
